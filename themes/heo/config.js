@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.pv.us.kg' },
-    { title: '访问文档中心获取更多帮助', url: 'https://blog.pv.us.kg' }
+    { title: '欢迎来到我的博客', url: 'https://blog.pev.us.kg' },
+    { title: '访问文档中心获取更多帮助', url: 'https://blog.pev.us.kg' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'blog.pv.us.kg',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_LINK: 'https://blog.pv.us.kg',
+  HEO_HERO_TITLE_LINK: 'https://blog.pev.us.kg',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
